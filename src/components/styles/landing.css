@@ -1,0 +1,20 @@
+.intro-wrapper {
+  margin-top: 15%;
+  width: 100%;
+}
+
+h1 {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 3em;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: lighter;
+  font-stretch: semi-expanded;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "react-and-scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "flex-box": "1.0.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.7.6",
+    "@types/react-dom": "16.0.9",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
