@@ -10,7 +10,9 @@
   "dependencies": {
     "flex-box": "1.0.0",
     "react": "16.2.0",
-    "react-dom": "16.2.0"
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "16.2.0",
+    "react-particles-js": "^2.4.0"
   },
   "devDependencies": {
     "@types/react": "16.7.6",
